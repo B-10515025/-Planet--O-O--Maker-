@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Planet\Planet\bin\Debug\Planet.exe.config
+C:\Users\user\Desktop\Planet\Planet\obj\Debug\Planet.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Planet\Planet\obj\Debug\Planet.Form1.resources
+C:\Users\user\Desktop\Planet\Planet\obj\Debug\Planet.Properties.Resources.resources
+C:\Users\user\Desktop\Planet\Planet\obj\Debug\Planet.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Planet\Planet\bin\Debug\Planet.exe
+C:\Users\user\Desktop\Planet\Planet\bin\Debug\Planet.pdb
+C:\Users\user\Desktop\Planet\Planet\obj\Debug\Planet.exe
+C:\Users\user\Desktop\Planet\Planet\obj\Debug\Planet.pdb
