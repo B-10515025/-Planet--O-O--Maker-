@@ -121,7 +121,7 @@ public class Planet : MonoBehaviour {
         mesh.uv = uvs;
         mesh.triangles = triangles;
         mesh.RecalculateBounds();
-        MeshUtility.Optimize(mesh);
+        //MeshUtility.Optimize(mesh);
     }
     private void Update()
     {
